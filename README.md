@@ -1,16 +1,18 @@
-### Hi there 👋
+ # 👩‍💻 Beatriz Oliveira
+### Olá 👽👋 
 
-<!--
-**BeatrizOliveira250/BeatrizOliveira250** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[! [ Github Badge ] (https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/BeatrizOliveira)] (https: // github.com/BeatrizOliveira250)
+[! [ Selo do Linkedin ] (https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beatriz-oliveira-a432121aa/)] (https://www.linkedin.com/in/beatriz-oliveira-a432121aa/)
 
-Here are some ideas to get you started:
+[! [ Crachá do telegrama ] (https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/)] (https: //t.me/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+
+
+
