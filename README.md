@@ -7,7 +7,7 @@
 - 🏫 UFMA 
 
 
- 📨:https://www.linkedin.com/in/beatriz-oliveira
+ 📨 https://www.linkedin.com/in/beatriz-oliveira
 
 
 
