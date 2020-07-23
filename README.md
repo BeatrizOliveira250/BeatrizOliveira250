@@ -8,9 +8,9 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/beatriizoliveiraa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="beatriizoliveiraa" height="20" width="20" /></a>
+<a href="https://stackoverflow.com/198568/beatriz-oliveira" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="198568/beatriz-oliveira" height="20" width="20" /></a>
 <a href="https://instagram.com/anabeaoliver" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="anabeaoliver" height="20" width="20" /></a>
 </p>
-
 
 
 
