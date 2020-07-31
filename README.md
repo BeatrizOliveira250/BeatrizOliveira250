@@ -1,23 +1,19 @@
 # :man_technologist: Beatriz Oliveira
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucasgdb)](https://github.com/lucasgdb)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-bittencourt/)](https://www.linkedin.com/in/lucas-bittencourt/)
-[![DEV Badge](https://img.shields.io/badge/-DEV.to-000?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/lucasgdb)](https://dev.to/lucasgdb)
-[![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://pt.stackoverflow.com/users/93508/lucas-bittencourt)](https://pt.stackoverflow.com/users/93508/lucas-bittencourt)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lgdbittencourt)](https://twitter.com/lgdbittencourt)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5512988344336&text=Olá!)](https://api.whatsapp.com/send?phone=5512988344336&text=Olá!)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/lucasgdb)](https://t.me/lucasgdb)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasgdbittencourt@gmail.com)](mailto:lucasgdbittencourt@gmail.com)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/BeatrizOliveira250)](https://github.com/BeatrizOliveira250)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beatriiz-oliveiraa/)](https://www.linkedin.com/in/beatriiz-oliveiraa/)
+[![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://pt.stackoverflow.com/users/198568/beatriz-oliveira)](https://pt.stackoverflow.com/users/198568/beatriz-oliveira)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/beaoliveiiira)](https://twitter.com/beaoliveiiira)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anabeatrizxoliveira@gmail.com)](mailto:anabeatrizxoliveira@gmail.com)
 
 ## Olá! 👋
 
-Meu nome é Lucas Bittencourt, Técnico em Desenvolvimento de Sistemas e apaixonado por Desenvolvimento.
+Meu nome é Beatriz Oliveira, sou estudante de Ciência e Tecnologia e apaixonada por desenvolvimento.
 
-- :office_worker: Estagiário Desenvolvedor na **LIAX Tecnologia**
-- :blue_heart: Techs: React.js, React Native, Node.js, Docker, TypeScript, entre outras.
-- :books: Estudando CI/CD com Jenkins, Docker e AWS :heart:
+- :office_worker: Membro do projeto de extenção da Ufma **SciTech Aplplication**
+- :puple_heart: Techs: React.js, React Native, Node.js, JavaScript , entre outras.
+- :books: Estudando React :heart:
 
-> :octocat: [lucasbittencourt.dev](https://lucasbittencourt.dev)
 
 ---
 
@@ -25,7 +21,7 @@ Meu nome é Lucas Bittencourt, Técnico em Desenvolvimento de Sistemas e apaixon
   <summary> <b> Quer saber mais sobre mim? </b> <i>(Clique aqui para expandir)</i> </summary>
   <br>
 
-  [![Github Status](https://github-readme-stats.vercel.app/api?username=lucasgdb&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/lucasgdb/lucasgdb)
+  [![Github Status](https://github-readme-stats.vercel.app/api?username=BeatrizOliveira250&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/BeatrizOliveira250/BeatrizOliveira250)
 
 ## Algumas Tecnologias
 
