@@ -39,6 +39,7 @@ Meu nome é Beatriz Oliveira, sou estudante de Ciência e Tecnologia e apaixonad
   ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
   ![Prettier](https://img.shields.io/badge/-Prettier-1A2B34?style=flat-square&logo=prettier&logoColor=white)
   ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
+  ![Linux](https://img.shields.io/badge/-Linux-16C60C?style=flat-square&logo=linux&logoColor=white)
 </details>
 
 
