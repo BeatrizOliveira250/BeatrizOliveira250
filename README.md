@@ -8,9 +8,9 @@
 
 Meu nome é Beatriz Oliveira, sou estudante de Ciência e Tecnologia e apaixonada por desenvolvimento.
 
-- 📌 Membro do projeto de extenção da Ufma **SciTech Aplplication** 
+- 📌 Membro do projeto de extenção da Ufma **SciTech Aplplication**.
 - 📒 Techs: React.js, React Native, Node.js, JavaScript , entre outras.
-- :books: Estudando React 
+- 📚 Estudying React.
 
 
 ---
