@@ -1,28 +1,23 @@
-# Beatriz Oliveira
+# Beatriz Oliveira 🤟
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/BeatrizOliveira250)](https://github.com/BeatrizOliveira250)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beatriiz-oliveiraa/)](https://www.linkedin.com/in/beatriiz-oliveiraa/)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://pt.stackoverflow.com/users/198568/beatriz-oliveira)](https://pt.stackoverflow.com/users/198568/beatriz-oliveira)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anabeatrizxoliveira@gmail.com)](mailto:anabeatrizxoliveira@gmail.com)
 
-## Iae! 👋
 
 Meu nome é Beatriz Oliveira, sou estudante de Ciência e Tecnologia e apaixonada por desenvolvimento.
 
-- 📌 Membro do projeto de extenção da Ufma **SciTech Aplplication**💜
+- 📌 Membro do projeto de extenção da Ufma **SciTech Aplplication** 
 - 📒 Techs: React.js, React Native, Node.js, JavaScript , entre outras.
-- :books: Estudando React 💙
+- :books: Estudando React 
 
 
 ---
 
-<details>
-  <summary> <b> Quer saber mais sobre mim? </b> <i>(Clique aqui para expandir)</i> </summary>
-  <br>
-
   [![Github Status](https://github-readme-stats.vercel.app/api?username=BeatrizOliveira250&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/BeatrizOliveira250/BeatrizOliveira250)
 
-## Algumas Tecnologias
+## Techs
 
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
