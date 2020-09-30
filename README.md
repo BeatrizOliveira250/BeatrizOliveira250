@@ -15,8 +15,6 @@ Meu nome é Beatriz Oliveira, sou estudante de Ciência e Tecnologia e apaixonad
 
 ---
 
-  [![Github Status](https://github-readme-stats.vercel.app/api?username=BeatrizOliveira250&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/BeatrizOliveira250/BeatrizOliveira250)
-
 ## Techs
 
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
