@@ -1,6 +1,7 @@
 # Beatriz Oliveira 🤟
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/BeatrizOliveira250)](https://github.com/BeatrizOliveira250)
+[![Gitlab Badge](https://img.shields.io/badge/-Gitlab-F6C600?style=flat-square&logo=Gitlab&logoColor=white&link=https://gitlab.com/BeatrizOliveira250)](https://gitlab.com/BeatrizOliveira250)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beatriiz-oliveiraa/)](https://www.linkedin.com/in/beatriiz-oliveiraa/)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://pt.stackoverflow.com/users/198568/beatriz-oliveira)](https://pt.stackoverflow.com/users/198568/beatriz-oliveira)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anabeatrizxoliveira@gmail.com)](mailto:anabeatrizxoliveira@gmail.com)
