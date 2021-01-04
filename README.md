@@ -7,11 +7,11 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anabeatrizxoliveira@gmail.com)](mailto:anabeatrizxoliveira@gmail.com)
 
 
-Meu nome é Beatriz Oliveira, sou estudante de Ciência e Tecnologia e apaixonada por desenvolvimento.
+My name is Beatriz Oliveira, I'm a student of Science and Technology and passionate about development.
 
-- 📌 Membro do projeto de extenção da Ufma **SciTech Application**.
-- 📒 Techs: React.js, React Native, Node.js, JavaScript , entre outras.
-- 📚 Estudying Angular, Ionic and Firebase
+- 📌 Member of the UFMA Extension Project **SciTech Application**.
+- 📒 Techs: React.js, React Native, Node.js, JavaScript , etc.
+- 📚 Estudying Angular, Ionic and Firebase.
 
 
 ---
