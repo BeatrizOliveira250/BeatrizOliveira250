@@ -6,8 +6,7 @@
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://pt.stackoverflow.com/users/198568/beatriz-oliveira)](https://pt.stackoverflow.com/users/198568/beatriz-oliveira)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anabeatrizxoliveira@gmail.com)](mailto:anabeatrizxoliveira@gmail.com)
 
-
-My name is Beatriz Oliveira, I'm a student of Science and Technology and passionate about development.
+I'm a student of Science and Technology and passionate about development.
 
 - 📌 Member of the UFMA Extension Project **SciTech Application**.
 - 📒 Techs: React.js, React Native, Node.js, JavaScript , etc.
