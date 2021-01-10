@@ -13,7 +13,7 @@ I'm a student of Science and Technology and passionate about development.
 - 📚 Estudying Angular, Ionic and Firebase.
 
 
----
+
 
 ## Techs
 
