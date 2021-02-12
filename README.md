@@ -9,8 +9,8 @@
 I'm a student of Science and Technology and passionate about development.
 
 - 📌 Member of the UFMA Extension Project **SciTech Application**.
-- 📒 Techs: React.js, React Native, Node.js, JavaScript , etc.
-- 📚 Estudying Angular, Ionic and Firebase.
+- 📒 Techs: React.js, React Native, Angular, JavaScript , etc.
+- 📚 Estudying React, React Native.
 
 
 
