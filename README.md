@@ -1,4 +1,4 @@
-# Beatriz Oliveira 
+# Beatriz Oliveira 🪐
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/BeatrizOliveira250)](https://github.com/BeatrizOliveira250)
 [![Gitlab Badge](https://img.shields.io/badge/-Gitlab-F6C600?style=flat-square&logo=Gitlab&logoColor=white&link=https://gitlab.com/BeatrizOliveira250)](https://gitlab.com/BeatrizOliveira250)
